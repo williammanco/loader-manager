@@ -13,7 +13,7 @@ yarn add loader-manager
 ## Features
 ```
   ☮️ chainable
-  📦 598 byte (gzipped)
+  📦 969 byte --- 298 byte (gzipped)
   👟 flexible
 ```
 
