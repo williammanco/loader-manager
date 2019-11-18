@@ -1,6 +1,6 @@
 {
   "name": "loader-manager",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Simply smallest loader manager using Promise",
   "main": "dist/bundle.esm.min.js",
   "scripts": {
