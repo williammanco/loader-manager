@@ -1,6 +1,5 @@
 {
     "post_complete_commands": [
-        "yarn build",
         "npm publish"
     ]
 }
