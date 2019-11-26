@@ -66,7 +66,7 @@ loader.resources
 ## Build
 
 ```sh
-yarn build
+npm run-script build
 ```
 
 # License
